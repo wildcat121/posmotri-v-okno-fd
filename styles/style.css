@@ -80,6 +80,7 @@ ol {
   height: 298px;
   overflow: hidden;
   overflow-y: auto;
+  padding: 3px;
 }
 
 .result__video-container {
@@ -120,7 +121,7 @@ ol {
   object-fit: fill;
   object-position: top;
   width: 194px;
-  min-height: 103px;
+  max-height: 103px;
 }
 
 .content__video-card-description-container {
@@ -151,10 +152,6 @@ ol {
   display: block;
   text-decoration: none;
   color: #fff;
-}
-
-.content__list-item {
-  padding: 3px;
 }
 
 .content__video-card-title {
