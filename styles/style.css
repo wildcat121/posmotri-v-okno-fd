@@ -130,7 +130,6 @@ ol {
 .search-form__fieldset-title {
   font-family: 'Fira Sans Condensed' , sans-serif;
   font-weight: 400;
-  font-style: Regular;
   font-size: 18px;
   line-height: 100%;
 }
@@ -224,7 +223,6 @@ ol {
   color: #fff;
   font-family: 'Fira Sans Condensed', sans-serif;
   font-weight: 400;
-  font-style: Regular;
   font-size: 18px;
   line-height: 100%;
   margin-top: 3px;
